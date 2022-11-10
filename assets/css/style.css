@@ -13,7 +13,7 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
-  background: black;
+  background: white;
 }
 
 canvas {
@@ -33,7 +33,7 @@ canvas {
   /* right: 43.5% ; */
   right: 16.5%;
   color: aqua;
-  font-size: 0.8rem;
+  font-size: 1.2rem;
   font-weight: 900;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   
@@ -150,7 +150,7 @@ canvas {
   .Text{
     position: absolute;
     top: -28px;
-    right: 41.5%;
+    right: 45.5%;
     /* color: rgb(0, 0, 0); */
     color: aqua;
     /* font-size: 1.2rem; */
