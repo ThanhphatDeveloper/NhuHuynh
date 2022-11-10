@@ -31,7 +31,7 @@ canvas {
   position: absolute;
   top: -98px;
   /* right: 43.5% ; */
-  right: 11.5%;
+  right: 16.5%;
   color: aqua;
   font-size: 0.8rem;
   font-weight: 900;
@@ -150,7 +150,7 @@ canvas {
   .Text{
     position: absolute;
     top: -28px;
-    right: 44.5%;
+    right: 41.5%;
     /* color: rgb(0, 0, 0); */
     color: aqua;
     /* font-size: 1.2rem; */
