@@ -537,9 +537,9 @@ canvas {
 
 .Text{
   position: absolute;
-  top: -24px;
+  top: -72px;
   /* right: 43.5% ; */
-  right: 14.5%;
+  right: 8.5%;
   color: aqua;
   font-size: 1.2rem;
   font-weight: 700;
